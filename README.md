@@ -2,7 +2,7 @@
 
 The only analytics platform that tracks not just what the data shows — but what decision was made, what action was taken, and what outcome was produced.
 
-Live Demo: decision-intelligence.streamlit.app
+Live Demo: [decision-intelligence.streamlit.app](https://decision-intelligence.streamlit.app/)
 
 ## The Problem with Existing BI Tools
 
