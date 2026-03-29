@@ -1,8 +1,9 @@
-#Closed Loop Decision Intelligence Platform
+Closed Loop Decision Intelligence Platform
 
 The only analytics platform that tracks not just what the data shows — but what decision was made, what action was taken, and what outcome was produced.
 
-🔗 Live Demo:
+Live Demo
+
 decision-intelligence.streamlit.app
 
 The Problem with Existing BI Tools
